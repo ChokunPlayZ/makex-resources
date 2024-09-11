@@ -17,13 +17,14 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 
 #### CS Awards Tally
 🥇🥇🥇🥇🥇🥇🥇 🥈🥈🥈🥈🥈🥈🥈🥈 🥉🥉🥉🥉
+---
 ### Mango Sticky Rice
 #### Season
-- MakeX Asia Intercontinal 2023
+- MakeX Asian Championships 2023
 - MakeX Thailand 2023
 - Asssumption College Rayong (Royal Trophy)
 #### Awards
-- Best Engineering notebook Award - MakeX Asia Intercontinal 2023
+- Best Engineering notebook Award - MakeX Asian Championships 2023
 - Best Presentation Award - MakeX Thaialand 2024
 - 🥈 Runner Up - Assumption College Rayong (Royal Trophy)
 #### Repositories
@@ -33,17 +34,18 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 - [Visual Studio Code Firefly upload tool](https://github.com/ChokunPlayZ/firefly-vscode)
 - [Live Timer for Live Streaming competetion](https://github.com/ChokunPlayZ/makex-live)
 #### Tools
-- [Team Website](https://mx.ckl.moe/)
 - [MakeX Challenge Score Calculator](https://mx.ckl.moe/utilities/score-calculator)
 - [MakeX Challenge Timer](https://mx.ckl.moe/utilities/timer)
+- [Scoreboard with Ranking (Google Sheets)](https://docs.google.com/spreadsheets/d/1m736coxjXO-dntTPm0ZgbOvdw86HHV0M6KX1gFlYqws/edit?usp=sharing)
 #### Others
+- [Team Website](https://mx.ckl.moe/)
 - [Printables.com Model Collection](https://www.printables.com/@chokunplayz/collections/1689567)
 
 ---
 
 ### Avenue
 #### Season
-- MakeX Asia Intercontinal 2024
+- 2024 World Robot Contest MakeX Asian Championships
 - Assumption College Sriracha (Royal Trophy)
 - MakeX Thailand 2024
 #### Awards
@@ -56,7 +58,7 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 ### Gemini
 #### Season
 - Assumption College Thonburi Warmup
-- MakeX Asia Intercontinal 2024
+- 2024 World Robot Contest MakeX Asian Championships
 - Assumption College Sriracha (Royal Trophy)
 - MakeX Thailand 2024
 #### Awards
@@ -72,7 +74,7 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 I cannot find the info of what team this code belongs to and each team's achivement so I'll pile it up here until the author come and correct it!
 - [https://github.com/LuPow132/Challenge_MakeX_2023_Code]
 - [https://github.com/NETtoSan/Makex-sources]
-- [https://github.com/iRobot-stbuu/Makex-sources/tree/master]
+- [https://github.com/iRobot-stbuu/Makex-sources]
 - [https://github.com/iRobot-stbuu/NovaPi-OS]
 
 ## I dont even know what school this belongs to
