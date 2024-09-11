@@ -4,7 +4,8 @@ a repo for documenting all public github repo for makex challenge teams
 below teams are sorted by school, year
 awards will also be listed
 
-info incorrect?, correct it and open an PR
+info incorrect?, correct it and open an PR  
+don't want to do any of that?, shoot me an email at [chokunplayz@ckl.moe](mailto:chokunplayz@ckl.moe)
 
 ## Assumption College Sriracha
 
