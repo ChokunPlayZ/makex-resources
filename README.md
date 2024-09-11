@@ -4,6 +4,7 @@ a repo for documenting all public github repo for makex challenge teams
 below teams are sorted by school, year
 awards will also be listed
 
+info incorrect?, correct it and open an PR
 
 ## Assumption College Sriracha
 
