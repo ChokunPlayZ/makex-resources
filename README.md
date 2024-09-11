@@ -32,7 +32,7 @@ info incorrect?, correct it and open an PR
 - Assumption College Sriracha (Royal Trophy)
 - MakeX Thailand 2024
 #### Awards
-- 🥇 Chamption - Assumption College Sriracha (Royal Trophy)
+- 🥇 Champion - Assumption College Sriracha (Royal Trophy)
 #### Repositories
 - [Team Main Repository (Private)](https://github.com/piyooow56/makex2024)
 
