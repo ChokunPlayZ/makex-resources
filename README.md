@@ -62,7 +62,7 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 - Assumption College Sriracha (Royal Trophy)
 - MakeX Thailand 2024
 #### Awards
-- 🥇 Chamption - Assumption College Thonburi Warmup
+- 🥇 Champion - Assumption College Thonburi Warmup
 #### Repositories
 - [Team Main Repository](https://github.com/piyaphatliamwilai/makex-resources)
 - [Holomonic Mecanum Drive](https://github.com/neumann-lab/holonomic-mecanum)
