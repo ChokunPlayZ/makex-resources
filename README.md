@@ -1,6 +1,8 @@
 # makex-resources
 a repo for documenting all public github repo for makex challenge teams
 
+and shows contribution each team left before they part ways to the future wating for them, this repo shows the works they put in to research and left everything for the next generation to explore and improve on
+
 below teams are sorted by school, year
 awards will also be listed
 
@@ -13,6 +15,8 @@ don't want to do any of that?, shoot me an email at [chokunplayz@ckl.moe](mailto
 - [MakeBlock MicroPython Docs (use Google Translate)](https://github.com/Makeblock-official/micropython-api-doc/tree/master/docs/novapi)
 
 ## Assumption College Sriracha
+แผนการเขียน "วิทยาศาสตร์ คอมพิวเตอร์" โรงเรียนอัสสัมชัญศรีราชา  
+[School Website](https://www.acs.ac.th/)  
 Team from this school is from it's (CS) Computer Science Program which specialize in Engineering, Robotics, and Programming.
 
 #### CS Awards Tally
@@ -71,7 +75,9 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 ---
 
 ## Piboonbumpen Demonstration School, Burapha University
----
+โรงเรียนสาธิต “พิบูลบำเพ็ญ” มหาวิทยาลัยบูรพา  
+[School Website](https://www.buu.ac.th/en/demonstration-school-piboonbumpen/)  
+
 ### Hawkeye & Doombot
 #### Season
 - MakeX Asian Championships 2022
@@ -88,8 +94,10 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 #### Repositories
 - [Team Main Repository](https://github.com/LuPow132/Challenge_MakeX_2023_Code)
 ---
+
 ## The Demonstration School of Valaya Alongkorn Rajabhat University Under The Royal Patronage
----
+โรงเรียนสาธิตมหาวิทยาลัยราชภัฏวไลยอลงกรณ์  
+[School Website](http://www.vru.ac.th/demonstration-school/)  
 ### Doryu
 #### Season
 - Assumption College Thonburi Warmup
@@ -100,7 +108,8 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 - [Team Main Repository](https://github.com/kongnirat/MY-ROBOT-CODE-MAKEX)
 ---
 ## Suksanareewittaya
----
+โรงเรียนศึกษานารีวิทยา  
+[School Website](https://snws.ac.th/)  
 ### Gravity Shift
 #### Season
 - Assumption College Thonburi Warmup
