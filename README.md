@@ -25,7 +25,7 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 - Asssumption College Rayong (Royal Trophy)
 #### Awards
 - Best Engineering notebook Award - MakeX Asian Championships 2023
-- Best Presentation Award - MakeX Thaialand 2024
+- Best Presentation Award - MakeX Thailand 2024
 - 🥈 Runner Up - Assumption College Rayong (Royal Trophy)
 #### Repositories
 - [Team Main Repository](https://github.com/ChokunPlayZ/MakeX-2023-Mango-Sticky-Rice)
@@ -70,17 +70,46 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 
 ---
 
-## PIBOONBUMPEN DEMONSTRATION SCHOOL
-I cannot find the info of what team this code belongs to and each team's achivement so I'll pile it up here until the author come and correct it!
-- [https://github.com/LuPow132/Challenge_MakeX_2023_Code]
-- [https://github.com/NETtoSan/Makex-sources]
-- [https://github.com/iRobot-stbuu/Makex-sources]
-- [https://github.com/iRobot-stbuu/NovaPi-OS]
-
+## Piboonbumpen Demonstration School, Burapha University
+---
+### Hawkeye & Doombot
+#### Season
+- MakeX Asian Championships 2022
+- MakeX Thailand 2022
+#### Repositories
+- [Team Main Repository](https://github.com/NETtoSan/Makex-sources)
+- [Club Main Repository](https://github.com/iRobot-stbuu/Makex-sources)
+- [NovaPI OS](https://github.com/iRobot-stbuu/NovaPi-OS)
+---
+### I need a dollar
+#### Season
+- MakeX Thailand 2023
+- Assumption College Rayong (Royal Trophy)
+#### Repositories
+- [Team Main Repository](https://github.com/LuPow132/Challenge_MakeX_2023_Code)
+---
+## The Demonstration School of Valaya Alongkorn Rajabhat University Under The Royal Patronage
+---
+### Doryu
+#### Season
+- Assumption College Thonburi Warmup
+- MakeX Thailand 2024
+#### Awards
+- 🥈 Runner Up - Assumption College Thonburi Warmup
+#### Repositories
+- [Team Main Repository](https://github.com/kongnirat/MY-ROBOT-CODE-MAKEX)
+---
+## Suksanareewittaya
+---
+### Gravity Shift
+#### Season
+- Assumption College Thonburi Warmup
+- MakeX Thailand 2024
+#### Repositories
+- [Team Main Repository](https://github.com/Thanadech-py/MakeX-challenge)
+---
 ## I dont even know what school this belongs to
-- [https://github.com/kongnirat/MY-ROBOT-CODE-MAKEX]
 - [https://github.com/ailwdhy/MakeXThai]
-- [https://github.com/Thanadech-py/MakeX-challenge]
 - [https://github.com/kan314/Makex]
 - [https://github.com/kan314/Makex2]
 - [https://github.com/afr2903/MakeX2019_chaBotsTitanes]
