@@ -129,3 +129,14 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 ## Other Tools
 - [https://github.com/colombo0718/MakeXAidTools]
 - [https://github.com/armmya/----MakeX-Calculator--Unfinished-]
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END --
