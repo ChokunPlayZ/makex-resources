@@ -20,7 +20,7 @@ don't want to do any of that?, shoot me an email at [chokunplayz@ckl.moe](mailto
 Team from this school is from it's (CS) Computer Science Program which specialize in Engineering, Robotics, and Programming.
 
 #### CS Awards Tally
-🥇🥇🥇🥇🥇🥇🥇 🥈🥈🥈🥈🥈🥈🥈🥈 🥉🥉🥉🥉
+🥇🥇🥇🥇🥇🥇🥇🥇 🥈🥈🥈🥈🥈🥈🥈🥈🥈🥈 🥉🥉🥉🥉
 ---
 ### Mango Sticky Rice
 #### Season
@@ -54,6 +54,7 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 - MakeX Thailand 2024
 #### Awards
 - 🥇 Champion - Assumption College Sriracha (Royal Trophy)
+- 🥈 Runner up - MakeX Thailand 2024
 #### Repositories
 - [Team Main Repository (Private)](https://github.com/piyooow56/makex2024)
 
