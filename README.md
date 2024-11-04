@@ -19,8 +19,8 @@ don't want to do any of that?, shoot me an email at [chokunplayz@ckl.moe](mailto
 [School Website](https://www.acs.ac.th/)  
 Team from this school is from it's (CS) Computer Science Program which specialize in Engineering, Robotics, and Programming.
 
-#### CS Awards Tally
-🥇🥇🥇🥇🥇🥇🥇🥇 🥈🥈🥈🥈🥈🥈🥈🥈🥈🥈 🥉🥉🥉🥉
+<!-- #### CS Awards Tally
+🥇🥇🥇🥇🥇🥇🥇🥇 🥈🥈🥈🥈🥈🥈🥈🥈🥈🥈 🥉🥉🥉🥉 -->
 ---
 ### Mango Sticky Rice
 #### Season
