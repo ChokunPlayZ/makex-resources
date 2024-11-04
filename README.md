@@ -50,13 +50,13 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 ### Avenue
 #### Season
 - 2024 World Robot Contest MakeX Asian Championships
-- Assumption College Sriracha (Royal Trophy)
+- Assumption College Sriracha Lifelong Learning & Education Expo 2024
 - MakeX Thailand 2024
 #### Awards
-- 🥇 Champion - Assumption College Sriracha (Royal Trophy)
+- 🥇 Champion - Assumption College Sriracha Lifelong Learning & Education Expo 2024
 - 🥈 Runner up - MakeX Thailand 2024
 #### Repositories
-- [Team Main Repository (Private)](https://github.com/piyooow56/makex2024)
+- [Team Main Repository](https://github.com/piyooow56/makex2024)
 
 ---
 
@@ -64,7 +64,7 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 #### Season
 - Assumption College Thonburi Warmup
 - 2024 World Robot Contest MakeX Asian Championships
-- Assumption College Sriracha (Royal Trophy)
+- Assumption College Sriracha Lifelong Learning & Education Expo
 - MakeX Thailand 2024
 #### Awards
 - 🥇 Champion - Assumption College Thonburi Warmup
@@ -74,6 +74,23 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 - [MakeX Nextjs Timer/Score Calculator](https://github.com/piyaphatliamwilai/makex-score-calculator)
 
 ---
+
+### CS6th
+#### Season
+- MakeX Asian Championships 2023
+- MakeX Thailand 2023
+- Asssumption College Rayong (Royal Trophy)
+- Assumption College Thonburi Warmup
+- 2024 World Robot Contest MakeX Asian Championships
+- Assumption College Sriracha Lifelong Learning & Education Expo 2024
+- MakeX Thailand 2024
+#### Awards
+- 🥈 Runner up - MakeX Thailand 2023
+- 🥇 Champion - Assumption College Rayong (Royal Trophy)
+- 🥉 Second Runner up - Assumption College Thonburi Warmup
+- 🥈 Runner up - Assumption College Sriracha Lifelong Learning & Education Expo 2024
+#### Repositories
+- [Team Main Repository](https://github.com/RETOUTHz/Cs6th_MakeX2024)
 
 ## Piboonbumpen Demonstration School, Burapha University
 โรงเรียนสาธิต “พิบูลบำเพ็ญ” มหาวิทยาลัยบูรพา  
@@ -118,6 +135,17 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 #### Repositories
 - [Team Main Repository](https://github.com/Thanadech-py/MakeX-challenge)
 ---
+
+## Suksanaree Wittaya School 
+โรงเรียนศึกษานารีวิทยา
+[School Website](https://www.snws.ac.th/) 
+### GravityShift
+#### Season
+- MakeX Thailand 2024
+#### Repositories
+- [Team Main Repository](https://github.com/Thanadech-py/MakeX-challenge)
+---
+
 ## I dont even know what school this belongs to
 - [https://github.com/ailwdhy/MakeXThai]
 - [https://github.com/kan314/Makex]
@@ -131,13 +159,6 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 - [https://github.com/colombo0718/MakeXAidTools]
 - [https://github.com/armmya/----MakeX-Calculator--Unfinished-]
 
+
 ## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END --
+Work in Progress...
