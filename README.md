@@ -1,7 +1,9 @@
 # makex-resources
 a repo for documenting all public github repo for makex challenge teams
 
-and shows contribution each team left before they part ways to the future wating for them, this repo shows the works they put in to research and left everything for the next generation to explore and improve on
+give the a place to display their adchivement and contribution each team left before they part ways to the future wating for them, this repo shows the works they put in to research and left everything for the next generation to explore and improve on  
+
+because the point of MakeX is more than the competetion, it's about the friendship and connection made, the knowledge shared, and the fun everyone had
 
 below teams are sorted by school, year
 awards will also be listed
@@ -92,6 +94,15 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 #### Repositories
 - [Team Main Repository](https://github.com/RETOUTHz/Cs6th_MakeX2024)
 
+---
+
+### Little First
+#### Season
+- MakeX Thailand 2022
+- MakeX International @ Thailand 2022
+#### Repositories
+- [Team Main Repository](https://github.com/ChokunPlayZ/makex-2022-little-first)
+
 ## Piboonbumpen Demonstration School, Burapha University
 โรงเรียนสาธิต “พิบูลบำเพ็ญ” มหาวิทยาลัยบูรพา  
 [School Website](https://www.buu.ac.th/en/demonstration-school-piboonbumpen/)  
@@ -161,4 +172,23 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 
 
 ## Contributors
-Work in Progress...
+
+#### Yanavut Rojanapron (Chokun)
+##### Where are they?
+- Assumption College Sriracha | Comp-Sci 3rd Generation
+- Thai-Nichi Institute of Technology | Faculity of Information Technology
+- EpNet's Cloud | Head of Infrastructure Development
+
+#### I've seen them before what team is they in again?
+- Little First | Team Manager/Cordinator - Full Stack Engineer
+- Mango Sticky Rice | Software Engineer - 3D Design Specialist
+- Avenue | Supporter - Consultant
+---
+### Piyaphat Liamwilai (Aut)
+#### Where are they?
+- Assumption College Sriracha | Comp-Sci 6th Generation
+
+#### I've seen them before what team is they in again?
+- CS6th (2023 Season) | Software Enginner
+- Gemini | Co-Operator
+---
