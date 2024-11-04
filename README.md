@@ -58,7 +58,7 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 - 🥇 Champion - Assumption College Sriracha Lifelong Learning & Education Expo 2024
 - 🥈 Runner up - MakeX Thailand 2024
 #### Repositories
-- [Team Main Repository](https://github.com/piyooow56/makex2024)
+- [Team Main Repository](https://github.com/piyooow56/Avenue_makex2024)
 
 ---
 
@@ -102,6 +102,8 @@ Team from this school is from it's (CS) Computer Science Program which specializ
 - MakeX International @ Thailand 2022
 #### Repositories
 - [Team Main Repository](https://github.com/ChokunPlayZ/makex-2022-little-first)
+
+---
 
 ## Piboonbumpen Demonstration School, Burapha University
 โรงเรียนสาธิต “พิบูลบำเพ็ญ” มหาวิทยาลัยบูรพา  
